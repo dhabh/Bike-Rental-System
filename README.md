@@ -16,8 +16,26 @@ The dataset consists of 17 columns, with the following key features:
 - `a temp`: The normalized "feels-like" temperature in Celsius.
 - `hum`: The normalized humidity.
 - `windspeed`: The normalized wind speed.
-- `casual`: The number of casual (non-registered) bike rentals.
+- `casual`: The number of casual (non-registered) bike rentals
 - `registered`: The number of registered bike rentals.
 - `count`: The total count of bike rentals (casual + registered).
 
 DATA SET LINK: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+
+QUESTIONS ANSWERED
+
+We have done the data analysis of this dataset starting from cleaning and transformation to the use of various Clustering and Regressions techniques like K-Means, KNN, Linear Regression, Logistic Regression and answered the following questions about the relationship between various variables and their impact on Rentals.
+
+•	Is there a correlation between environmental factors and overall user count? 
+
+•	Is a registered or casual user more likely to rent a bike during non-optimal weather (too hot or too cold)?
+
+•	Is there a time of day that a registered or casual user is more likely to use a bike?
+
+•	Is there a time of year where users are more or less likely to rent a bike?
+
+•	Do holidays impact usage? If so, how?
+
+•	Is there a threshold at which these factors significantly affect demand?
+
+•	Are there any noticeable trends in bike rental demand between the years 2011 and 2012?

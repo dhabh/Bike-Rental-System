@@ -19,3 +19,4 @@ The dataset consists of 17 columns, with the following key features:
 - `casual`: The number of casual (non-registered) bike rentals.
 - `registered`: The number of registered bike rentals.
 - `count`: The total count of bike rentals (casual + registered).
+DATA SET LINK: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
